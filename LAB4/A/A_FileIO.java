@@ -23,7 +23,7 @@ public class A_FileIO {
                 sb.reverse();
                 bw.write(sb.toString());
                 bw.newLine();
-            }
+            }            
             bw.close();
             scanner.close();
         } catch (IOException e) {
