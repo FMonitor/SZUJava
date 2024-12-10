@@ -1,90 +1,82 @@
 [
     {
-        "word": "apple",
-        "correct": "A",
-        "selectionA": "苹果",
-        "selectionB": "香蕉",
-        "selectionC": "橙子",
-        "selectionD": "葡萄"
+        "word": "研究",
+        "correct": "C",
+        "selectionA": "research",
+        "selectionB": "study",
+        "selectionC": "investigate",
+        "selectionD": "examine"
     },
     {
-        "word": "banana",
+        "word": "学生",
+        "correct": "D",
+        "selectionA": "teacher",
+        "selectionB": "professor",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "教授",
+        "correct": "A",
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "讲师",
         "correct": "B",
-        "selectionA": "苹果",
-        "selectionB": "香蕉",
-        "selectionC": "橙子",
-        "selectionD": "葡萄"
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
     },
     {
-        "word": "orange",
+        "word": "教师",
         "correct": "C",
-        "selectionA": "苹果",
-        "selectionB": "香蕉",
-        "selectionC": "橙子",
-        "selectionD": "葡萄"
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
     },
     {
-        "word": "car",
+        "word": "学校",
         "correct": "D",
-        "selectionA": "巴士",
-        "selectionB": "自行车",
-        "selectionC": "飞机",
-        "selectionD": "汽车"
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
     },
     {
-        "word": "bus",
+        "word": "大学",
         "correct": "A",
-        "selectionA": "巴士",
-        "selectionB": "自行车",
-        "selectionC": "飞机",
-        "selectionD": "汽车"
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
     },
     {
-        "word": "bicycle",
+        "word": "学院",
         "correct": "B",
-        "selectionA": "巴士",
-        "selectionB": "自行车",
-        "selectionC": "飞机",
-        "selectionD": "汽车"
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
     },
     {
-        "word": "airplane",
+        "word": "校园",
         "correct": "C",
-        "selectionA": "巴士",
-        "selectionB": "自行车",
-        "selectionC": "飞机",
-        "selectionD": "汽车"
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
     },
     {
-        "word": "dog",
-        "correct": "D",
-        "selectionA": "猫",
-        "selectionB": "狗",
-        "selectionC": "猪",
-        "selectionD": "狼"
-    },
-    {
-        "word": "cat",
+        "word": "研究生",
         "correct": "A",
-        "selectionA": "猫",
-        "selectionB": "狗",
-        "selectionC": "猪",
-        "selectionD": "狼"
-    },
-    {
-        "word": "pig",
-        "correct": "C",
-        "selectionA": "猫",
-        "selectionB": "狗",
-        "selectionC": "猪",
-        "selectionD": "狼"
-    },
-    {
-        "word": "wolf",
-        "correct": "D",
-        "selectionA": "猫",
-        "selectionB": "狗",
-        "selectionC": "猪",
-        "selectionD": "狼"
+        "selectionA": "graduate student",
+        "selectionB": "postgraduate student",
+        "selectionC": "doctoral student",
+        "selectionD": "master student"
     }
 ]

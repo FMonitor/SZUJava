@@ -1,0 +1,82 @@
+[
+    {
+        "word": "研究A",
+        "correct": "A",
+        "selectionA": "research",
+        "selectionB": "study",
+        "selectionC": "investigate",
+        "selectionD": "examine"
+    },
+    {
+        "word": "学生D",
+        "correct": "D",
+        "selectionA": "teacher",
+        "selectionB": "professor",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "教授A",
+        "correct": "A",
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "讲师",
+        "correct": "B",
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "教师",
+        "correct": "C",
+        "selectionA": "professor",
+        "selectionB": "teacher",
+        "selectionC": "lecturer",
+        "selectionD": "student"
+    },
+    {
+        "word": "学校",
+        "correct": "D",
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
+    },
+    {
+        "word": "大学",
+        "correct": "A",
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
+    },
+    {
+        "word": "学院",
+        "correct": "B",
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
+    },
+    {
+        "word": "校园",
+        "correct": "C",
+        "selectionA": "university",
+        "selectionB": "college",
+        "selectionC": "school",
+        "selectionD": "campus"
+    },
+    {
+        "word": "研究生",
+        "correct": "A",
+        "selectionA": "graduate student",
+        "selectionB": "postgraduate student",
+        "selectionC": "doctoral student",
+        "selectionD": "master student"
+    }
+]

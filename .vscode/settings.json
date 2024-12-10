@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "LAB4/C/wordtest/src/main/java",
+        "LAB4/B",
+        "LAB4/A",
+        "LAB4/D/wordtest/src/main/java"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

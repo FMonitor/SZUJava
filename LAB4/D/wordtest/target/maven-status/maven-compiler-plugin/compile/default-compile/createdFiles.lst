@@ -1,0 +1,5 @@
+com\lcmonitor\WordServer$1.class
+com\lcmonitor\WordServer.class
+com\lcmonitor\Word.class
+client\com\lcmonitor\WordClient$WordReceiver.class
+client\com\lcmonitor\WordClient.class
