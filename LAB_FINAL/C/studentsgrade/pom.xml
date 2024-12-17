@@ -35,7 +35,7 @@
                             <transformers>
                                 <transformer
                                     implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.lcmonitor.Main</mainClass>
+                                    <mainClass>cn.edu.szu.csse.Main</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
