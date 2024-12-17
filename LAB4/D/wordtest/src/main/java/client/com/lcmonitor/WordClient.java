@@ -27,12 +27,17 @@ public class WordClient {
                 e.printStackTrace();
             }
         });
+        
     }
 
     public WordClient() throws IOException {
-        Socket socket = new Socket("localhost", 12345);
-        out = new PrintWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"), true);
-        in = new BufferedReader(new InputStreamReader(socket.getInputStream(), "UTF-8"));
+        try (Socket socket = new Socket("localhost", 12345)) {
+            OutputStreamWriter outStream = new OutputStreamWriter(socket.getOutputStream(), "UTF-8");
+            InputStreamReader inStream = new InputStreamReader(socket.getInputStream(), "UTF-8");
+
+            out = new PrintWriter(outStream, true);
+            in = new BufferedReader(inStream);
+        }
     }
 
     private void createAndShowGUI() {
