@@ -1,0 +1,19 @@
+Total Score:633.0
+Average Score:79.125
+Highest Score:92.0
+Lowest Score:58.0
+Passed Student count:7
+Students passed:
+赵六 92.0
+李四 90.0
+王五 88.0
+张三 85.0
+吴十 80.0
+陈七 75.0
+孙九 65.0
+The five highest students:
+赵六 92.0
+李四 90.0
+王五 88.0
+张三 85.0
+吴十 80.0
